@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ben-Alcock
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development & Machine learning
 - 🌱 I’m currently learning HTML & CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
