@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ben-Alcock
-- 👀 I’m interested in Web Development & Machine learning
-- 🌱 I’m currently learning HTML & CSS
+- 👀 I’m interested in Cloud Architecture
+- 🌱 I’m currently learning HTML & CSS, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
